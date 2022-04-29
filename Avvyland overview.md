@@ -124,7 +124,7 @@ Digital artists and established musicians can monetize their art through Branes 
 
 Architects and designers can model buildings, houses, and other structures with blocks and objects that have real-world prototypes. As a Brane resident, an architect can collaborate on the project design with customers, contractors, designers, and colleagues face-to-face (avvy-to-avvy). Anyone from the team can automatically generate a bill of materials, estimate strength and energy efficiency, and get assembly instructions at any design stage. Digital goods are available for physical implementation using DomiDo technology which offers standardized production of any object.
 
-    ![a house created in Avvyland](/house.png)
+    ![a house created in Avvyland](house.png)
 
 ### For entrepreneurs
 
